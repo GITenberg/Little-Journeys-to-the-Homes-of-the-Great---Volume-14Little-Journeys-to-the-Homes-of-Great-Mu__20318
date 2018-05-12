@@ -1,0 +1,36 @@
+_repo: Little-Journeys-to-the-Homes-of-the-Great---Volume-14Little-Journeys-to-the-Homes-of-Great-Mu__20318
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hubbard, Elbert
+    aliases:
+    - Elbertus, Fra
+    - Ali Baba
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '228'
+    url: http://www.gutenberg.org/2009/agents/228
+    wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2007-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Composers'
+- !lcc 'ML'
+tableOfContents: Richard Wagner -- Paganini -- Frederic Chopin -- Robert Schumann
+  -- Sebastian Bach -- Felix Mendelssohn -- Franz Liszt -- Ludwig van Beethoven --
+  George Handel -- Giuseppe Verdi -- Wolfgang Mozart -- Johannes Brahms.
+title: 'Little Journeys to the Homes of the Great - Volume 14
+
+  Little Journeys to the Homes of Great Musicians'
+url: http://www.gutenberg.org/ebooks/20318
