@@ -29,6 +29,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Composers'
 - !lcc 'ML'
+- GITenberg
 tableOfContents: Richard Wagner -- Paganini -- Frederic Chopin -- Robert Schumann
   -- Sebastian Bach -- Felix Mendelssohn -- Franz Liszt -- Ludwig van Beethoven --
   George Handel -- Giuseppe Verdi -- Wolfgang Mozart -- Johannes Brahms.
